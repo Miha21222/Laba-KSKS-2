@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Laba 2 KSKS Client\bin\Debug\Laba 2 KSKS Client.exe.config
+C:\Users\user\source\repos\Laba 2 KSKS Client\bin\Debug\Laba 2 KSKS Client.exe
+C:\Users\user\source\repos\Laba 2 KSKS Client\bin\Debug\Laba 2 KSKS Client.pdb
+C:\Users\user\source\repos\Laba 2 KSKS Client\obj\Debug\Laba 2 KSKS Client.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Laba 2 KSKS Client\obj\Debug\Laba_2_KSKS_Client.Client.resources
+C:\Users\user\source\repos\Laba 2 KSKS Client\obj\Debug\Laba_2_KSKS_Client.Properties.Resources.resources
+C:\Users\user\source\repos\Laba 2 KSKS Client\obj\Debug\Laba 2 KSKS Client.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Laba 2 KSKS Client\obj\Debug\Laba 2 KSKS Client.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Laba 2 KSKS Client\obj\Debug\Laba 2 KSKS Client.exe
+C:\Users\user\source\repos\Laba 2 KSKS Client\obj\Debug\Laba 2 KSKS Client.pdb
